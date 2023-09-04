@@ -12,7 +12,7 @@ for num in data:
     else:
         odd += 1
 
-print("Total even number: "+ str(even))
+print("Total even numbers: "+ str(even))
 print("Total odd numbers: "+ str(odd))
 
 
