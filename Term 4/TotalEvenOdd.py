@@ -3,8 +3,8 @@
 
 data = [24, 3, 60, 7, 9, 11]
 
-even = []
-odd = []
+even = 0
+odd = 0
 
 for num in data:
     if num % 2 == 0: # checks if even number (24 % 2 == 0), true = even
